@@ -138,3 +138,5 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
+
+[![Java CI with Maven](https://github.com/toyin54/spring-petclinic/actions/workflows/maven.yml/badge.svg)](https://github.com/toyin54/spring-petclinic/actions/workflows/maven.yml)
